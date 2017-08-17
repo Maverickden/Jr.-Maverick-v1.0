@@ -4,4 +4,4 @@
 
 
 This project is Started with first initiative for stem learning in india.
-In this project we have made some introductio for student with some of electronics component.
+In this project we have made some introduction for student with some of electronics component.
